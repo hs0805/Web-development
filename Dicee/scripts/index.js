@@ -11,8 +11,8 @@ document.querySelector(".img2").setAttribute("src", imageSrc);
 
 
 if (num1>num2){
-    document.querySelector("h1").textContent = "Player1 Won";
+    document.querySelector("h1").textContent = "Player 1 Won";
 }
 else {
-    document.querySelector("h1").textContent = "Player2 Won";
+    document.querySelector("h1").textContent = "Player 2 Won";
 }
